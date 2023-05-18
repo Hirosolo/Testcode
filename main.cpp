@@ -8,5 +8,6 @@ int main()
     cout<<"hello world";
     for(int i=0;i<10;i++)
         cout<<rand() % 10;
+    cout<<"that's is all 10 random number";
     return 0;
 }
