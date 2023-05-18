@@ -9,5 +9,6 @@ int main()
     for(int i=0;i<10;i++)
         cout<<rand() % 10;
     cout<<"that's is all 10 random number";
+    //random 123
     return 0;
 }
